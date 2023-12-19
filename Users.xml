@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Base>
+  <Users>
+    <User id="1">
+      <Login>1</Login>
+      <Password>12</Password>
+    </User>
+    <User id="2">
+      <Login>12</Login>
+      <Password>12</Password>
+    </User>
+    <User id="3">
+      <Login>123</Login>
+      <Password>1</Password>
+    </User>
+  </Users>
+</Base>

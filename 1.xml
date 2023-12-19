@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Model>
+    <Id>0</Id>
+    <Property1>1</Property1>
+    <Property2>2</Property2>
+    <Property3>Низкая</Property3>
+    <Property4>Рубль, ₽</Property4>
+  </Model>
+  <Model>
+    <Id>1</Id>
+    <Property1>3</Property1>
+    <Property2>2</Property2>
+    <Property3>Средняя</Property3>
+    <Property4>Доллар, $</Property4>
+  </Model>
+  <Model>
+    <Id>2</Id>
+    <Property1>12</Property1>
+    <Property2>123</Property2>
+    <Property3>Низкая</Property3>
+    <Property4>Доллар, $</Property4>
+  </Model>
+  <Model>
+    <Id>213</Id>
+    <Property1>213</Property1>
+    <Property2>123</Property2>
+    <Property3>Высокая</Property3>
+    <Property4>Доллар, $</Property4>
+  </Model>
+</ArrayOfModel>
